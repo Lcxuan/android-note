@@ -1,0 +1,8 @@
+## 什么是Material Design
+
+Material Design是由Google的设计工程师们基于传统优秀的设计原则，结合丰富的创意和科学技术所开发的一套全新的界面设计语言，包含了视觉、运动、互动效果等特性。
+
+在2015年的Google I/O大会上推出了一个Design Support库，这个库将Material Design中最具代表性的一些控件和效果进行了封装，使得开发者即使在不了解Material Design的情况下，也能非常轻松地将自己的应用Material化。
+
+后来Design Support库又改名成了Material库，用于给Google全平台类的产品提供MaterialDesign的支持。
+
